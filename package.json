@@ -21,7 +21,7 @@
     "editorconfig-tools": "^0.1.1",
     "firmata": "^0.16.0",
     "istanbul": "^0.4.3",
-    "mocha": "^3.4.2",
+    "mocha": "^5.0.0",
     "mock-firmata": "0.1.0",
     "serialport": "^4.0.7",
     "should": "^11.2.1",
